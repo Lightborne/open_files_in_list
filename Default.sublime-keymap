@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+o", "ctrl+a"], "command": "open_files_in_list" }
+]
